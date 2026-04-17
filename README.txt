@@ -9,7 +9,7 @@ WHAT YOU HAVE:
 HOW TO RUN:
 
 FRONTEND:
-Open frontend/index.html in browser
+index.html 
 
 BACKEND:
 cd backend
